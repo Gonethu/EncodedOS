@@ -1,0 +1,6 @@
+C:\Users\nicla\Desktop\EncodedOS\EncodedOS\bin\Debug\netstandard1.5\EncodedOS.deps.json
+C:\Users\nicla\Desktop\EncodedOS\EncodedOS\bin\Debug\netstandard1.5\EncodedOS.dll
+C:\Users\nicla\Desktop\EncodedOS\EncodedOS\bin\Debug\netstandard1.5\EncodedOS.pdb
+C:\Users\nicla\Desktop\EncodedOS\EncodedOS\obj\Debug\netstandard1.5\EncodedOS.AssemblyInfo.cs
+C:\Users\nicla\Desktop\EncodedOS\EncodedOS\obj\Debug\netstandard1.5\EncodedOS.dll
+C:\Users\nicla\Desktop\EncodedOS\EncodedOS\obj\Debug\netstandard1.5\EncodedOS.pdb
