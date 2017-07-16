@@ -25,6 +25,7 @@ namespace EncodedOS.Tools
                 if (foundUserInUserList == false)
                 {
                     Console.WriteLine("> This user was not found!");
+                    return;
                 }
             }
             else if (allUsers[0] == "error")
